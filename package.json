@@ -1,0 +1,25 @@
+{
+  "name": "pruebatecnica",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "axios": "^1.3.4",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1"
+  },
+  "description": "Server for deploy de react app React Engineer Practical Test",
+  "main": "app.js",
+  "keywords": [
+    "'prueba",
+    "técnica'"
+  ],
+  "author": "rm",
+  "license": "ISC"
+}
