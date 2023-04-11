@@ -1,4 +1,4 @@
 # prueba-tecnica-server
-Server for deploy the app: prueba-tecnica
+Server API for the app *prueba-tecnica*.
 
-Visit the app: [prueba-tecnica-uvts.onrender.com](https://prueba-tecnica-uvts.onrender.com/)
+Visit the endpoint */bank*: [prueba-tecnica-api.onrender.com/bank](https://prueba-tecnica-api.onrender.com/bank)
